@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Deployed the app successfully.
+### `[Go Live]`(https://email-clone-yt-254c8.web.app/) to view in your browser
+
 ### `npm start`
 
 Runs the app in the development mode.\
